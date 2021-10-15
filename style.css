@@ -54,3 +54,13 @@ body {
   height: 80px;
   border-radius: 50%;
 }
+
+.container .serviceBox .icon i {
+  font-size: 5em;
+  color: #fff;
+  transition: 0.5s;
+}
+
+.container .serviceBox:hover .icon i {
+  font-size: 2em;
+}
